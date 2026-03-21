@@ -38,4 +38,9 @@
 
 <br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shina0149/shina0149/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/shina0149/shina0149/output/github-snake.svg">
+</picture>
+
 ###
